@@ -1,2 +1,2 @@
 #!/bin/bash	
-Cp –u *htm.. 
+cp -n *.html ..
